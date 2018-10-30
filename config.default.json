@@ -1,0 +1,9 @@
+{
+	"db":{
+		"database": "checkin",
+		"username": "root",
+		"password": null,
+		"host": "localhost",
+		"port": null
+	}
+}
